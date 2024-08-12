@@ -1,4 +1,1 @@
-asdasd
-asasd
-asdad
-asdasd
+commit atıldı
