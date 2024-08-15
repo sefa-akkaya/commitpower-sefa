@@ -7,4 +7,4 @@ asdasd
 
 a = 5;
 b = asdasd;
-c = 123;
+c = 123asd;
