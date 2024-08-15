@@ -1,15 +1,7 @@
-print("denemeasdasdsaasdqweqwaasdasdasdasdassadfasdfsasdasdfasddasaasdfdfsdasdasdasdafffcsafsdfsfdxcxc")
-def topla(a,b):
-  return a+b
+printf("adas")
 
-printf("yanlis print")
+def fun(a, b):
+    c = a + b
+    return c
 
-a = 5;
-b = a12sd;
-c = 123asd;
-asdf = 23214; 
-printf("asdfsa)
-
-def def()
-for range():
-  printf(selam)
+printf("sss")
