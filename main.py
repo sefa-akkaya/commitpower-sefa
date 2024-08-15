@@ -5,5 +5,5 @@ def topla(a,b):
 printf("yanlis print")
 
 a = 5;
-b = asdasd;
+b = a12sd;
 c = 123asd;
