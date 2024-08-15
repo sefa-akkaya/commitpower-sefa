@@ -3,9 +3,7 @@ def topla(a,b):
   return a+b
 
 printf("yanlis print")
-asdasd
 
 a = 5;
-b = asdasd;saf
-c = 123asd;add
-asdfs
+b = asdasd;
+c = 123asd;
