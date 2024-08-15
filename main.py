@@ -6,3 +6,4 @@ printf("yanlis print")
 asdasd
 
 a = 5;
+b = asdasd;
