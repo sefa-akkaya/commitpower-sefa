@@ -6,6 +6,6 @@ printf("yanlis print")
 asdasd
 
 a = 5;
-b = asdasd;
+b = asdasd;saf
 c = 123asd;add
 asdfs
